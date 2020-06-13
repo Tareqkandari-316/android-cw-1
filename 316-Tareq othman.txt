@@ -8,12 +8,15 @@ public class HelloWorld{
          
          int v = x - t;
          
+         int l = x * t;
+         
          boolean o =  x < t;
          
         System.out.println(x);
         System.out.println(t);
         System.out.println(k);
         System.out.println(v);
+        system.out.println(l);
         System.out.println(o);
      }
 }
